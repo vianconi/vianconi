@@ -4,7 +4,7 @@ Soy un programador Python con experiencia en el desarrollo de aplicaciones web y
 
 ## Habilidades y Tecnologías
 
-- **Lenguaje de Programación**: Python
+- **Lenguaje de Programación**: ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 - **Frameworks**: Django, Flask
 - **Bases de Datos**: Relacionales (SQL)
 - **Web Servers**: Nginx
