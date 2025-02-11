@@ -3,7 +3,7 @@
 
 🚀 **Desarrollador Backend especializado en Python 🐍**  
 Apasionado por la creación de **aplicaciones web escalables ☁️**, APIs eficientes y optimización de sistemas backend.  
-Experiencia en multiples frameworks, bases de datos relacionales y despliegue en la nube.  
+Experiencia con bases de datos relacionales y despliegue en la nube.  
 
 ## 🛠️ Habilidades Técnicas  
 
