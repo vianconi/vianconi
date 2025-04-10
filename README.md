@@ -10,7 +10,7 @@ Experiencia con bases de datos relacionales y despliegue en la nube.
 | Categoría         | Tecnologías |
 |------------------|----------------------------------------------------------------|
 | **Lenguaje**      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **Frameworks**    | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) |
+| **Frameworks**    | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | **Bases de Datos**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Web Servers**   | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | **Contenedores**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
@@ -20,6 +20,7 @@ Experiencia con bases de datos relacionales y despliegue en la nube.
 
 ## 🚀 Proyectos Destacados  
 - 🔗 [**Proyecto Tienda**](https://github.com/vianconi/tienda) - TIENDA es una aplicación web diseñada para facilitar la compra y venta de libros de forma sencilla y atractiva. Con una interfaz limpia y amigable, permite a los usuarios explorar una amplia gama de títulos, realizar compras en línea y gestionar su carrito de manera eficiente.  
+- 🔗 [**Proyecto Ecommerce**](https://github.com/vianconi/ecommerce) - ECOMMERCE es un backend RESTful construido con Flask que proporciona funcionalidades básicas para un sistema de e-commerce, incluyendo autenticación de usuarios, gestión de productos y operaciones con carrito de compras.
 
 ## 📬 Contacto  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiliovillalba)  
