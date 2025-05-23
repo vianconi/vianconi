@@ -18,8 +18,7 @@ Experiencia con bases de datos relacionales y despliegue en la nube.
 | **Sistema Operativo** | ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) |
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 
-## 🚀 Proyectos Destacados  
-- 🔗 [**Proyecto Tienda**](https://github.com/vianconi/tienda) - TIENDA es una aplicación web diseñada para facilitar la compra y venta de libros de forma sencilla y atractiva. Con una interfaz limpia y amigable, permite a los usuarios explorar una amplia gama de títulos, realizar compras en línea y gestionar su carrito de manera eficiente.  
+## 🚀 Proyectos Destacados    
 - 🔗 [**Proyecto Ecommerce**](https://github.com/vianconi/ecommerce) - ECOMMERCE es un backend RESTful construido con Flask que proporciona funcionalidades básicas para un sistema de e-commerce, incluyendo autenticación de usuarios, gestión de productos y operaciones con carrito de compras.
 - 🔗 [**Proyecto Movies**](https://github.com/vianconi/Movies-api) - MOVIES es una API construida con Django y Django REST Framework (DRF) para gestionar películas, calificaciones y usuarios.
   
