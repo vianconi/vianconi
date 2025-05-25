@@ -19,6 +19,7 @@ Experiencia con bases de datos relacionales y despliegue en la nube.
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
 
 ## 🚀 Proyectos Destacados    
+- 🔗 [**Proyecto Movies**](https://github.com/vianconi/FastAPI) - Este proyecto es una API desarrollada con FastAPI y Peewee para gestionar reseñas de películas, usuarios y más. Permite a los usuarios registrarse, autenticarse, crear reseñas de películas, consultar y modificar información relacionada.
 - 🔗 [**Proyecto Ecommerce**](https://github.com/vianconi/ecommerce) - ECOMMERCE es un backend RESTful construido con Flask que proporciona funcionalidades básicas para un sistema de e-commerce, incluyendo autenticación de usuarios, gestión de productos y operaciones con carrito de compras.
 - 🔗 [**Proyecto Movies**](https://github.com/vianconi/Movies-api) - MOVIES es una API construida con Django y Django REST Framework (DRF) para gestionar películas, calificaciones y usuarios.
   
