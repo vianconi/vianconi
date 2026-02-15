@@ -1,37 +1,52 @@
+# Emilio Villalba
 
-# Emilio Villalba  
+### 🐧 SysAdmin & DevOps Enthusiast | ☁️ Infrastructure & Backend
 
-🚀 **Desarrollador Backend especializado en Python 🐍**  
-Apasionado por la creación de **aplicaciones web escalables ☁️**, APIs eficientes y optimización de sistemas backend.  
-Experiencia con bases de datos relacionales y despliegue en la nube.  
+Profesional de TI con **+15 años de experiencia** en Soporte, Redes y Sistemas. Actualmente enfocado en la transición hacia **DevOps**, utilizando mi **Home Lab** para experimentar con automatización y contenedores.
 
-## 🛠️ Habilidades Técnicas  
+🔭 **Actualmente trabajando en:** Optimización de modelos LLM locales en **Raspberry Pi 5**.
+🌱 **Aprendiendo:** Orquestación con **Docker/Kubernetes** y monitoreo de sistemas.
+👯 **Busco colaborar en:** Proyectos DevOps.
 
-| Categoría         | Tecnologías |
-|------------------|----------------------------------------------------------------|
-| **Lenguaje**      | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) |
-| **Frameworks**    | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
-| **Bases de Datos**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **Web Servers**   | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-| **Contenedores**  | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Versionamiento**| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **Sistema Operativo** | ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) |
-| **Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
+---
 
-## 🚀 Proyectos Destacados    
-- 🔗 [**Proyecto Chatbot**](https://github.com/vianconi/Chatbot_week_one) - API de chatbot construida con FastAPI, diseñada para mantener conversaciones con memoria a largo plazo. La memoria se almacena en una base de datos PostgreSQL y la lógica de conversación es impulsada por un LLM local a través de Ollama. Este proyecto está optimizado para funcionar en entornos con recursos limitados como una Raspberry Pi 5.
-- 🔗 [**Proyecto Movies**](https://github.com/vianconi/FastAPI) - Este proyecto es una API desarrollada con FastAPI y Peewee para gestionar reseñas de películas, usuarios y más. Permite a los usuarios registrarse, autenticarse, crear reseñas de películas, consultar y modificar información relacionada.
-- 🔗 [**Proyecto Ecommerce**](https://github.com/vianconi/ecommerce) - ECOMMERCE es un backend RESTful construido con Flask que proporciona funcionalidades básicas para un sistema de e-commerce, incluyendo autenticación de usuarios, gestión de productos y operaciones con carrito de compras.
-- 🔗 [**Proyecto Movies**](https://github.com/vianconi/Movies-api) - MOVIES es una API construida con Django y Django REST Framework (DRF) para gestionar películas, calificaciones y usuarios.
-  
-## 📬 Contacto  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiliovillalba)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliovianconi@gmail.com)  
+## 🛠️ Tech Stack & Herramientas
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianconi&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianconi&layout=compact&theme=dark)
+| Dominio | Tecnologías |
+| :--- | :--- |
+| **Infraestructura & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+| **Contenedores & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| **IaC & Automatización** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Versionamiento** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
+---
 
+## 🚀 Proyectos Destacados
 
+### 🤖 [AI Chatbot - Edge AI](https://github.com/vianconi/Chatbot_week_one)
+**El Proyecto Estrella:** API de chatbot diseñada para funcionar en hardware limitado (**Raspberry Pi 5**).
+- **Tech:** FastAPI, PostgreSQL, Ollama (LLM Local).
+- **DevOps Focus:** Despliegue optimizado para entornos locales sin depender de la nube (Edge Computing).
 
+### 🎬 [Movies API Microservice](https://github.com/vianconi/Movies-api)
+API RESTful para gestión de contenido multimedia.
+- **Tech:** Django, Django REST Framework (DRF).
+- **Enfoque:** Arquitectura MVC robusta y manejo de autenticación.
+
+### 🛒 [Ecommerce Backend](https://github.com/vianconi/ecommerce)
+Sistema backend para comercio electrónico.
+- **Tech:** Flask, SQLAlchemy.
+- **Enfoque:** API RESTful escalable y gestión de bases de datos relacionales.
+
+---
+
+## 📬 Conectemos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emiliovillalba) [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://app.docker.com/accounts/vianconi) [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/emilio-villalba/badges) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emiliovianconi@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianconi&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianconi&layout=compact&theme=radical&hide_border=true)
