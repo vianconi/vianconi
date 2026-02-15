@@ -47,8 +47,6 @@ Sistema backend para comercio electrónico.
 
 ---
 
-## 🏆 Logros & Estadísticas
-[![Trophies](https://github-profile-trophy.vercel.app/?username=vianconi&theme=radical&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+## 🔥 My Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vianconi&theme=radical)
 
-## 🔥 Actividad
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vianconi&show_icons=true&theme=radical&hide_border=true)
