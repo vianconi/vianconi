@@ -17,12 +17,17 @@ Profesional de TI con **+15 años de experiencia** en Soporte, Redes y Sistemas.
 | **Infraestructura & OS** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
 | **Contenedores & Cloud** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) |
 | **IaC & Automatización** | ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
-| **Backend & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Backend & Scripting** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Versionamiento** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) |
 
 ---
 
 ## 🚀 Proyectos Destacados
+
+### 📋 [Todo API](https://github.com/vianconi/todo-api-aspnet)
+API RESTful para gestión de tareas, explorando el ecosistema .NET.
+- **Tech:** ASP.NET Core, Entity Framework Core, SQLite, Scalar.
+- **Enfoque:** Minimal API REST con ORM, inyección de dependencias y documentación interactiva.
 
 ### 🤖 [AI Chatbot - Edge AI](https://github.com/vianconi/Chatbot_week_one)
 **El Proyecto Estrella:** API de chatbot diseñada para funcionar en hardware limitado (**Raspberry Pi 5**).
