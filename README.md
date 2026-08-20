@@ -52,6 +52,20 @@ Sistema backend para comercio electrónico.
 
 ---
 
-## 🔥 My Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=vianconi&theme=radical)
+## 🏠 Home Lab
 
+Mi entorno personal para experimentar con **DevOps, infraestructura, automatización y Edge AI**, combinando una estación de trabajo x86 con una Raspberry Pi.
+
+| Node | Hardware / Purpose |
+| :--- | :--- |
+| 💻 **Workstation** | AMD Ryzen AI 9 365 · 32 GB RAM · 1 TB SSD · Radeon 880M |
+| 🍓 **Raspberry Pi 5** | ARM-based Edge Node · Linux · Local Services |
+| 🐳 **Containers** | Docker · Docker Compose |
+| ⚙️ **Automation** | Ansible · Terraform · Bash |
+| 📊 **Monitoring** | Zabbix |
+| 🤖 **Local AI** | Ollama · LLMs |
+| ☁️ **Cloud** | AWS · DigitalOcean |
+
+> 🔧 Uso ambos equipos como laboratorio para desplegar, automatizar, monitorear y probar servicios en distintos entornos.
+
+---
